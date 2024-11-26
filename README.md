@@ -1,2 +1,2 @@
 # MiraGram
-MiraGram is instagram clone.
+MiraGram is an instagram clone.
